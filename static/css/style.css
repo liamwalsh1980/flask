@@ -1,3 +1,10 @@
 .col-md-5 img {
     width: 100%;
 }
+
+.flashes {
+    color: red;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
